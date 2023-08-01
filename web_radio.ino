@@ -23,8 +23,8 @@
 TEA5767 radio = TEA5767();
 
 // REPLACE WITH YOUR NETWORK CREDENTIALS
-const char* ssid = "DECOX20";
-const char* password = "1155668800";
+const char* ssid = "******";
+const char* password = "******";
 
 const int output = 2;
 const float frequencyStep = 0.1; // 0.1 MHz step
